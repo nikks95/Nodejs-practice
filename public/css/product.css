@@ -23,15 +23,3 @@
 .product__description {
     text-align: center;
 }
-
-.box-bn{
-    width: 10rem;
-    height: 2rem;
-    background-color: #123423;
-    padding: 0.5rem;
-    color: white;
-}
-.box-bn:hover{
-    background-color: black;
-    font-size: 4px;
-}
